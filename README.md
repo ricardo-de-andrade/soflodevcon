@@ -251,4 +251,4 @@ cp ../index.html .
 cp ../img.png .
 ```
 
-And to close it all up, let's commit this puppy and le teh magic begin!!
+And to close it all up, let's commit this puppy and let the magic begin!!
